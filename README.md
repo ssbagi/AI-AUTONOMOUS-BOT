@@ -4,9 +4,14 @@ Can AI be made Self-Consciousness to work in autonomous mode ? Just had an idea 
 
 Just had a thought prompted using Copilot. Just to see if this Scenario is possible. 
 
-![image0](https://github.com/user-attachments/assets/c5a8c717-59ea-4c3c-8c3f-192ef7d8d6a3)
+Images or Prompts used from Co-Pilot : 
 
-![image4](https://github.com/user-attachments/assets/5a5dac4b-01e7-4c37-9347-474e9f8f5e3d)
+
+<img width="2420" height="1668" alt="image3" src="https://github.com/user-attachments/assets/1b7a7373-af58-43ad-b8fc-7754a97e3641" />
+
+
+
+<img width="1668" height="2420" alt="image4" src="https://github.com/user-attachments/assets/fa81c58a-6b38-443e-90c3-4e0992383866" />
 
 
 
